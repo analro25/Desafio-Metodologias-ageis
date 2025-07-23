@@ -1,0 +1,12 @@
+O que funcionou: 
+O uso de branches (index e contato) para cada tarefa manteve o trabalho 
+organizado. 
+As histórias do Product Backlog estavam claras e fáceis de entender. 
+
+O que não funcionou: 
+O código git merge n funcionou pois não havia modificado o arquivo ainda. 
+Houve uma pequena confusão inicial com os comandos do Git. 
+
+Pontos a melhorar: 
+Estudar e praticar os comandos Git mais utilizados. 
+Pesquisar sobre formas de otimizar tarefas para o próximo Sprint.
